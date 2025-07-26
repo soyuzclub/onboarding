@@ -1,2 +1,2 @@
 # onboarding
-first repo to familiarize with onboarding on git hub
+First repo to familiarize with onboarding on git hub
